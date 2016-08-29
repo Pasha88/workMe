@@ -1,0 +1,13 @@
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+.like {
+	background-color: #3b3c3b;
+	color: #f0f0f0 ;
+	text-decoration: none;
+	padding: 1px 5px 1px 5px;
+	border-radius: 5px;
+	border: 1px solid #000000;
+}
